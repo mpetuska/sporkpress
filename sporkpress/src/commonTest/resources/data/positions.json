@@ -1,0 +1,242 @@
+[
+  {
+    "id": 6,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/defensive-specialist\/",
+    "name": "Defensive Specialist",
+    "slug": "defensive-specialist",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/libero\/",
+    "name": "Libero",
+    "slug": "libero",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/middle-blocker\/",
+    "name": "Middle Blocker",
+    "slug": "middle-blocker",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/opposite\/",
+    "name": "Opposite",
+    "slug": "opposite",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/outside-hitter\/",
+    "name": "Outside Hitter",
+    "slug": "outside-hitter",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/position\/setter\/",
+    "name": "Setter",
+    "slug": "setter",
+    "taxonomy": "sp_position",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

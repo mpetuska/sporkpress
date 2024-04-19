@@ -1,0 +1,320 @@
+{
+  "id": 1996,
+  "date": "2023-09-18T18:07:35",
+  "date_gmt": "2023-09-18T18:07:35",
+  "guid": {
+    "rendered": "https:\/\/berkshirevolleyball.co.uk\/?post_type=sp_table&#038;p=1996"
+  },
+  "modified": "2023-10-08T18:06:09",
+  "modified_gmt": "2023-10-08T18:06:09",
+  "slug": "2023-2024-mens-division-1",
+  "status": "publish",
+  "type": "sp_table",
+  "link": "https:\/\/berkshirevolleyball.co.uk\/table\/2023-2024-mens-division-1\/",
+  "title": {
+    "rendered": "2023-2024 Mens Division 1"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "featured_media": 0,
+  "menu_order": 0,
+  "template": "",
+  "meta": {
+    "_uag_custom_page_level_css": "",
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "theme-transparent-header-meta": "default",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "set",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      }
+    }
+  },
+  "leagues": [
+    19
+  ],
+  "seasons": [
+    47
+  ],
+  "data": {
+    "737": {
+      "p": "14",
+      "w": "14",
+      "l": "0",
+      "sw": "28",
+      "sl": "2",
+      "pw": "722",
+      "pl": "473",
+      "pts": "42",
+      "name": "Oxford Vollox",
+      "pos": 1
+    },
+    "740": {
+      "p": "13",
+      "w": "9",
+      "l": "4",
+      "sw": "20",
+      "sl": "10",
+      "pw": "661",
+      "pl": "534",
+      "pts": "29",
+      "name": "Oxford Bulls",
+      "pos": 2
+    },
+    "741": {
+      "p": "10",
+      "w": "7",
+      "l": "3",
+      "sw": "16",
+      "sl": "7",
+      "pw": "506",
+      "pl": "438",
+      "pts": "23",
+      "name": "Spikeopaths Mens 1",
+      "pos": 3
+    },
+    "738": {
+      "p": "12",
+      "w": "7",
+      "l": "5",
+      "sw": "16",
+      "sl": "13",
+      "pw": "575",
+      "pl": "551",
+      "pts": "23",
+      "name": "Maidenhead Braywick Mens",
+      "pos": 4
+    },
+    "739": {
+      "p": "12",
+      "w": "6",
+      "l": "6",
+      "sw": "16",
+      "sl": "14",
+      "pw": "623",
+      "pl": "591",
+      "pts": "22",
+      "name": "Basingstoke Lions",
+      "pos": 5
+    },
+    "743": {
+      "p": "13",
+      "w": "6",
+      "l": "7",
+      "sw": "13",
+      "sl": "18",
+      "pw": "612",
+      "pl": "658",
+      "pts": "19",
+      "name": "Oxford Bullox",
+      "pos": 6
+    },
+    "1068": {
+      "p": "12",
+      "w": "5",
+      "l": "7",
+      "sw": "12",
+      "sl": "14",
+      "pw": "530",
+      "pl": "549",
+      "pts": "17",
+      "name": "Wycombe Eagles Mens 1",
+      "pos": 7
+    },
+    "1070": {
+      "p": "12",
+      "w": "2",
+      "l": "10",
+      "sw": "5",
+      "sl": "20",
+      "pw": "391",
+      "pl": "559",
+      "pts": "7",
+      "name": "Maidenhead Magnet Mens",
+      "pos": 8
+    },
+    "742": {
+      "p": "14",
+      "w": "0",
+      "l": "14",
+      "sw": "0",
+      "sl": "28",
+      "pw": "433",
+      "pl": "700",
+      "pts": "0",
+      "name": "Reading Aces Mens 1",
+      "pos": 9
+    },
+    "0": {
+      "pos": "Pos",
+      "name": "Team",
+      "p": "Pld",
+      "w": "W",
+      "l": "L",
+      "sw": "SW",
+      "sl": "SL",
+      "pw": "PW",
+      "pl": "PL",
+      "pts": "Pts"
+    }
+  },
+  "uagb_featured_image_src": {
+    "full": false,
+    "thumbnail": false,
+    "medium": false,
+    "medium_large": false,
+    "large": false,
+    "1536x1536": false,
+    "2048x2048": false,
+    "sportspress-crop-medium": false,
+    "sportspress-fit-medium": false,
+    "sportspress-fit-icon": false,
+    "sportspress-fit-mini": false
+  },
+  "uagb_author_info": {
+    "display_name": "admin",
+    "author_link": "https:\/\/berkshirevolleyball.co.uk\/author\/"
+  },
+  "uagb_comment_info": 0,
+  "uagb_excerpt": null,
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables\/1996"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/types\/sp_table"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/media?parent=1996"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "sp_league",
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues?post=1996"
+      },
+      {
+        "taxonomy": "sp_season",
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons?post=1996"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

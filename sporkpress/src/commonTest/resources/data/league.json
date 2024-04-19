@@ -1,0 +1,61 @@
+{
+  "id": 19,
+  "count": 148,
+  "description": "",
+  "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mens-division-1\/",
+  "name": "Mens Division 1",
+  "slug": "mens-division-1",
+  "taxonomy": "sp_league",
+  "parent": 15,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/19"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/15"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=19"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=19"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=19"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=19"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=19"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=19"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

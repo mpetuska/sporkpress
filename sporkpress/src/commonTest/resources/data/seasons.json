@@ -1,0 +1,112 @@
+[
+  {
+    "id": 12,
+    "count": 469,
+    "description": "Indoor season from Spetember 2022 to May 2023",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/season\/2022-2023\/",
+    "name": "2022-2023",
+    "slug": "2022-2023",
+    "taxonomy": "sp_season",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons\/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_season"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?seasons=12"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?seasons=12"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?seasons=12"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?seasons=12"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?seasons=12"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?seasons=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 452,
+    "description": "Indoor season from Spetember 2023 to May 2024",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/season\/2023-2024\/",
+    "name": "2023-2024",
+    "slug": "2023-2024",
+    "taxonomy": "sp_season",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons\/47"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_season"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?seasons=47"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?seasons=47"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?seasons=47"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?seasons=47"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?seasons=47"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?seasons=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

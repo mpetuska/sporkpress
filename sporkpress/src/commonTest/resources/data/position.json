@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "count": 0,
+  "description": "",
+  "link": "https:\/\/berkshirevolleyball.co.uk\/position\/outside-hitter\/",
+  "name": "Outside Hitter",
+  "slug": "outside-hitter",
+  "taxonomy": "sp_position",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions\/2"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/positions"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_position"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?positions=2"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

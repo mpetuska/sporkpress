@@ -1,0 +1,728 @@
+[
+  {
+    "id": 13,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/bva\/",
+    "name": "Berkshire Volleyball Association",
+    "slug": "bva",
+    "taxonomy": "sp_league",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/13"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=13"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=13"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=13"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=13"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=13"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "count": 8,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/juniors\/",
+    "name": "Juniors",
+    "slug": "juniors",
+    "taxonomy": "sp_league",
+    "parent": 13,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/17"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/13"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=17"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=17"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=17"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=17"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=17"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 94,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/juniors-division-1\/",
+    "name": "Juniors Division 1",
+    "slug": "juniors-division-1",
+    "taxonomy": "sp_league",
+    "parent": 17,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/18"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/17"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=18"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=18"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=18"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=18"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=18"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "count": 13,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/ladies\/",
+    "name": "Ladies",
+    "slug": "ladies",
+    "taxonomy": "sp_league",
+    "parent": 13,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/14"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/13"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=14"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=14"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=14"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=14"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=14"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 145,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/ladies-division-1\/",
+    "name": "Ladies Division 1",
+    "slug": "ladies-division-1",
+    "taxonomy": "sp_league",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/23"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=23"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=23"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=23"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=23"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=23"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 32,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/ladies-division-2\/",
+    "name": "Ladies Division 2",
+    "slug": "ladies-division-2",
+    "taxonomy": "sp_league",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/49"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=49"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=49"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=49"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=49"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=49"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 22,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mens\/",
+    "name": "Mens",
+    "slug": "mens",
+    "taxonomy": "sp_league",
+    "parent": 13,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/15"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/13"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=15"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=15"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=15"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=15"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=15"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 148,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mens-division-1\/",
+    "name": "Mens Division 1",
+    "slug": "mens-division-1",
+    "taxonomy": "sp_league",
+    "parent": 15,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/19"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/15"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=19"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=19"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=19"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=19"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=19"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "count": 169,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mens-division-2\/",
+    "name": "Mens Division 2",
+    "slug": "mens-division-2",
+    "taxonomy": "sp_league",
+    "parent": 15,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/20"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/15"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=20"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=20"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=20"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=20"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=20"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 14,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mixed\/",
+    "name": "Mixed",
+    "slug": "mixed",
+    "taxonomy": "sp_league",
+    "parent": 13,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/16"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/13"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=16"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=16"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=16"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=16"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=16"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 127,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mixed-division-1\/",
+    "name": "Mixed Division 1",
+    "slug": "mixed-division-1",
+    "taxonomy": "sp_league",
+    "parent": 16,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/21"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/16"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=21"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=21"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=21"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=21"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=21"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "count": 100,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/league\/mixed-division-2\/",
+    "name": "Mixed Division 2",
+    "slug": "mixed-division-2",
+    "taxonomy": "sp_league",
+    "parent": 16,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/22"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_league"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues\/16"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?leagues=22"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?leagues=22"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?leagues=22"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/tables?leagues=22"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/players?leagues=22"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/staff?leagues=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

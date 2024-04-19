@@ -1,0 +1,251 @@
+{
+  "id": 2061,
+  "date": "2024-04-07T16:00:02",
+  "date_gmt": "2024-04-07T16:00:02",
+  "guid": {
+    "rendered": "https:\/\/berkshirevolleyball.co.uk\/?post_type=sp_event&#038;p=2061"
+  },
+  "modified": "2024-04-03T16:35:25",
+  "modified_gmt": "2024-04-03T16:35:25",
+  "slug": "wycombe-eagles-mens-1-spikeopaths-mens-1",
+  "status": "publish",
+  "type": "sp_event",
+  "link": "https:\/\/berkshirevolleyball.co.uk\/event\/wycombe-eagles-mens-1-spikeopaths-mens-1\/",
+  "title": {
+    "rendered": "Wycombe Eagles Mens 1 &#8211; Spikeopaths Mens 1"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "template": "",
+  "format": "league",
+  "meta": {
+    "_uag_custom_page_level_css": "",
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-gradient": ""
+      }
+    }
+  },
+  "leagues": [
+    19
+  ],
+  "seasons": [
+    47
+  ],
+  "venues": [
+    46
+  ],
+  "teams": [
+    1068,
+    741
+  ],
+  "main_results": [],
+  "outcome": [],
+  "winner": null,
+  "mode": "team",
+  "day": "M119 \/ Wycombe Eagles Mens 1",
+  "minutes": "90",
+  "players": [
+    0,
+    0
+  ],
+  "offense": [],
+  "defense": [],
+  "staff": [
+    0,
+    0
+  ],
+  "results": {
+    "1068": [],
+    "741": [],
+    "0": {
+      "sets": "Sets",
+      "one": "1",
+      "two": "2",
+      "three": "3",
+      "outcome": "Outcome"
+    }
+  },
+  "performance": [
+    []
+  ],
+  "uagb_featured_image_src": {
+    "full": false,
+    "thumbnail": false,
+    "medium": false,
+    "medium_large": false,
+    "large": false,
+    "1536x1536": false,
+    "2048x2048": false,
+    "sportspress-crop-medium": false,
+    "sportspress-fit-medium": false,
+    "sportspress-fit-icon": false,
+    "sportspress-fit-mini": false
+  },
+  "uagb_author_info": {
+    "display_name": "admin",
+    "author_link": "https:\/\/berkshirevolleyball.co.uk\/author\/pierslawson\/"
+  },
+  "uagb_comment_info": 0,
+  "uagb_excerpt": null,
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events\/2061"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/types\/sp_event"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/users\/1"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/media?parent=2061"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "sp_league",
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/leagues?post=2061"
+      },
+      {
+        "taxonomy": "sp_season",
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/seasons?post=2061"
+      },
+      {
+        "taxonomy": "sp_venue",
+        "embeddable": true,
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues?post=2061"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

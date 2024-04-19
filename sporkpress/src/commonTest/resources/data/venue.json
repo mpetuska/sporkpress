@@ -1,0 +1,46 @@
+{
+  "id": 29,
+  "count": 180,
+  "description": "Spikeopath Volleyball Club's and Maindenhead Volleyball Club's normal home venue.",
+  "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/wren-school\/",
+  "name": "Wren School",
+  "slug": "wren-school",
+  "taxonomy": "sp_venue",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/29"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=29"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=29"
+      },
+      {
+        "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=29"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

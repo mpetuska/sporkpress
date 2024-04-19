@@ -1,0 +1,600 @@
+[
+  {
+    "id": 24,
+    "count": 24,
+    "description": "Mavericks Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/bracknell-leisure-centre\/",
+    "name": "Bracknell Leisure Centre",
+    "slug": "bracknell-leisure-centre",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/24"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=24"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=24"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "count": 66,
+    "description": "Wycombe Eagles Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/bucks-new-university\/",
+    "name": "Bucks New University",
+    "slug": "bucks-new-university",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/46"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=46"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=46"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 63,
+    "description": "Oxford Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/ferry-leisure-centre\/",
+    "name": "Ferry Leisure Centre",
+    "slug": "ferry-leisure-centre",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/26"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=26"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=26"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 6,
+    "description": "Oxford Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/headington-girls-school\/",
+    "name": "Headington Girls School",
+    "slug": "headington-girls-school",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/44"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=44"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=44"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 27,
+    "description": "Oxford University Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/iffley-road-sports-centre\/",
+    "name": "Iffley Road Sports Centre",
+    "slug": "iffley-road-sports-centre",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/45"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=45"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=45"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 114,
+    "description": "Reading Aces Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/kendrick-school\/",
+    "name": "Kendrick School",
+    "slug": "kendrick-school",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/28"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=28"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=28"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "count": 21,
+    "description": "Didcot Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/oxford-high-school\/",
+    "name": "Oxford High School",
+    "slug": "oxford-high-school",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/50"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=50"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=50"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 90,
+    "description": "Basingstoke Volleyball Club's normal home venue",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/queen-marys-college\/",
+    "name": "Queen Mary's College",
+    "slug": "queen-marys-college",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/27"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=27"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=27"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 78,
+    "description": "Farnborough Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/samuel-cody-school\/",
+    "name": "Samuel Cody School",
+    "slug": "samuel-cody-school",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/30"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=30"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=30"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "count": 0,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/tbc-basingstoke\/",
+    "name": "TBC Basingstoke",
+    "slug": "tbc-basingstoke",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/51"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=51"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=51"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=51"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 87,
+    "description": "Newbury Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/trinity-school-sports-hall\/",
+    "name": "Trinity School",
+    "slug": "trinity-school-sports-hall",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/25"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=25"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=25"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "count": 3,
+    "description": "",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/white-horse-leisure-centre\/",
+    "name": "White Horse Leisure Centre",
+    "slug": "white-horse-leisure-centre",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/52"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=52"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=52"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 180,
+    "description": "Spikeopath Volleyball Club's and Maindenhead Volleyball Club's normal home venue.",
+    "link": "https:\/\/berkshirevolleyball.co.uk\/venue\/wren-school\/",
+    "name": "Wren School",
+    "slug": "wren-school",
+    "taxonomy": "sp_venue",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues\/29"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/venues"
+        }
+      ],
+      "about": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/taxonomies\/sp_venue"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/events?venues=29"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/calendars?venues=29"
+        },
+        {
+          "href": "https:\/\/berkshirevolleyball.co.uk\/wp-json\/wp\/v2\/teams?venues=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
