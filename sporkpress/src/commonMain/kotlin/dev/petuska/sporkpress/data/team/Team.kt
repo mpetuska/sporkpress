@@ -73,5 +73,7 @@ data class Team(
   @SerialName("url")
   var url: String,
   @SerialName("venues")
-  var venues: List<VenueId>
+  var venues: List<VenueId>,
+  @SerialName("class_list")
+  var classList: List<String>
 )

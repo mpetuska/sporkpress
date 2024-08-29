@@ -2,4 +2,6 @@ build/
 out/
 .idea/
 .gradle/
+.kotlin/
+.fleet/
 *.log

@@ -1,12 +1,13 @@
+import org.jetbrains.kotlin.gradle.dsl.ExplicitApiMode
+
 plugins {
   id("kmp")
   id("detekt")
 }
 
 kotlin {
-  jvm {
-    withJava()
-  }
+  explicitApi = ExplicitApiMode.Disabled
+  jvm()
   linuxX64()
 
   sourceSets {

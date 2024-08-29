@@ -88,4 +88,6 @@ data class Event(
   var venues: List<VenueId>,
   @SerialName("winner")
   var winner: TeamId?,
+  @SerialName("class_list")
+  var classList: List<String>
 )

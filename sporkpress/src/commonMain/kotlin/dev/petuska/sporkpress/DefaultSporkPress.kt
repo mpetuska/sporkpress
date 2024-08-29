@@ -21,7 +21,10 @@ import kotlinx.serialization.builtins.ListSerializer
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.serializer
 
-internal open class DefaultSporkPress(private val client: HttpClient) : SporkPress {
+internal open class DefaultSporkPress(
+  private val client: HttpClient,
+  private val json: Json = Json,
+) : SporkPress {
   override fun close() {
     client.close()
   }
@@ -106,7 +109,7 @@ internal open class DefaultSporkPress(private val client: HttpClient) : SporkPre
     deserializer: KSerializer<T>,
     response: HttpResponse
   ) {
-    Json.decodeFromString(ListSerializer(deserializer), response.bodyAsText()).forEach { emit(it) }
+    json.decodeFromString(ListSerializer(deserializer), response.bodyAsText()).forEach { emit(it) }
   }
 
   private suspend inline fun <reified T> FlowCollector<T>.emitItems(response: HttpResponse) {
